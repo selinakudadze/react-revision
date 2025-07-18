@@ -12,7 +12,7 @@ export default function Header(){
             <nav>
                 <ol className="flex justify-around">
                     <li >
-                        <a href="/" className="text-3xl align-text-bottom font-extralights  font-mono hover:underline">Home Page</a>
+                        <a href="/" className="text-3xl align-text-bottom font-extralights  font-mono hover:underline">Homepage</a>
                     </li>
                     <li>
                         <a href="/fancyPage" className="text-3xl align-text-bottom font-extralights  font-mono hover:underline">Fancy Page</a>
