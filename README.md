@@ -7,4 +7,5 @@
 - Call at least 3 cards in the homepage
 
 ![Homepage of react app](homepage.png)
-![Footer of react app](footer.png)sion
+![Footer of react app](footer.png)
+
